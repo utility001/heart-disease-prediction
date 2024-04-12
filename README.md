@@ -1,6 +1,6 @@
 ## 🫀  Heart Disease Prediction
 
-Heart disease remains a leading cause of death globally. The aim of this project is t apply machine learning methods to predict heart disease in patients.
+Heart disease remains a leading cause of death globally. The aim of this project is to apply machine learning methods to predict heart disease in patients.
 
 **Features**
 The predictions were made based on several features such as chest pain type, Resting electrocardiographic results, serum cholesterol, etc. as described in the [data description file](data_description.md)
