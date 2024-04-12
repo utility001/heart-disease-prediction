@@ -30,4 +30,4 @@ This dataset was gottenfrom [kaggle](https://www.kaggle.com/datasets/yasserh/hea
 
 **Note!**
 This README will evolve as the project progresses. You may check back for updates on findings and challenges encountered.  
-A deployment pipeline will be added in the future
+A deployment pipeline will also be added in the future
